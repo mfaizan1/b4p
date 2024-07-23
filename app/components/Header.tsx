@@ -12,9 +12,7 @@ const Header = () => {
   return (
     <header className="bg-gray-800 text-white p-4 shadow-md">
       <nav className="container mx-auto flex flex-wrap justify-between items-center">
-        <h1 className="text-2xl font-bold mb-2 md:mb-0">
-          Boycott for Pakistan
-        </h1>
+        <h1 className="text-2xl font-bold mb-2 md:mb-0">#BoycottForPakistan</h1>
         <button
           className="md:hidden block px-2 py-1 border rounded text-white border-white"
           onClick={toggleMenu}
