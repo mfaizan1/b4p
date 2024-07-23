@@ -11,7 +11,29 @@ const IPPInfo = () => {
   return (
     <div className="bg-gray-900 text-gray-200 min-h-screen">
       <Head>
-        <title>Boycott for Pakistan</title>
+        <title>#BoycottForPakistan</title>
+        <meta
+          name="description"
+          content="Join the movement to boycott IPP groups in Pakistan. Learn about the predatory practices of these groups and take action to ensure fairness in our energy sector."
+        />
+        <meta
+          name="keywords"
+          content="boycott, IPP, Pakistan, energy sector, fairness, protest, IPP groups"
+        />
+        <meta property="og:title" content="Boycott for Pakistan" />
+        <meta
+          property="og:description"
+          content="Join the movement to boycott IPP groups in Pakistan. Learn about the predatory practices of these groups and take action to ensure fairness in our energy sector."
+        />
+        <meta property="og:image" content="/path/to/your/og-image.jpg" />
+        <meta property="og:url" content="https://www.yourwebsite.com" />
+        <meta name="twitter:title" content="Boycott for Pakistan" />
+        <meta
+          name="twitter:description"
+          content="Join the movement to boycott IPP groups in Pakistan. Learn about the predatory practices of these groups and take action to ensure fairness in our energy sector."
+        />
+        <meta name="twitter:image" content="/path/to/your/twitter-image.jpg" />
+        <meta name="twitter:card" content="summary_large_image" />
       </Head>
       <Header />
       <main className="container mx-auto p-4">
