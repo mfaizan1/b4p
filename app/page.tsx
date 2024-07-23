@@ -45,8 +45,8 @@ const IPPInfo = () => {
             must strike where it hurts the most: their diverse business
             interests. By cutting off support to their ancillary businesses, we
             can force them to reconsider their unjust practices and bring about
-            real change. This is not just a boycott; it's a movement to reclaim
-            our rights and ensure fairness in our energy sector.
+            real change. This is not just a boycott; it&apos;s a movement to
+            reclaim our rights and ensure fairness in our energy sector.
           </p>
         </Section>
         <Section id="goal" title="Our Goal">
